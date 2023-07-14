@@ -1,0 +1,10 @@
+Include Basic Library
+Include jquery.airport-1.1.source
+
+ 
+at document.ready
+$('.logo').airport(['Avishkar']);
+
+body section
+    
+<div  class="logo"></div>
